@@ -1,0 +1,3 @@
+0 Fire
+1 Smoke
+2 Neutral
